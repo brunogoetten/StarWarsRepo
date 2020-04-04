@@ -1,7 +1,7 @@
 # Star Wars Repo
 
 
-<img src="C:/Users/bruno/Documents/CursoGit/StarWarsRepo/TieFighter.png">
+<img src=" /TieFighter.png">
 
 
 
