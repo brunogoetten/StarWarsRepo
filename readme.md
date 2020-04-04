@@ -1,7 +1,7 @@
 # Star Wars Repo
 
-![](/Users/bruno/Documents/CursoGit/StarWarsRepo/TieFighter.png)
-<img src="
+
+<img src="/Users/bruno/Documents/CursoGit/StarWarsRepo/TieFighter.png">
 
 
 
